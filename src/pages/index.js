@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react';
+import React from 'react';
 
 import Layout from '../components/Layout';
 
@@ -6,8 +6,8 @@ import Layout from '../components/Layout';
 import pic2 from '../assets/images/coding-icons/carrots.svg';
 import pic3 from '../assets/images/coding-icons/gears.svg';
 
-// import vid1 from '../assets/vids/newsCatch.webm'
-// import vid2 from '../assets/vids/TechPandaVideo.mp4'
+import vid1 from '../assets/vids/newsCatch.webm'
+import vid2 from '../assets/vids/TechPandaVideo.mp4'
 
 import reactPic from '../assets/images/skills/react.png'
 import reduxPic from '../assets/images/skills/redux.svg'
@@ -20,18 +20,7 @@ import postgresqlPic from '../assets/images/skills/postgresql.png'
 
 
 import config from '../../config';
-// import awsPic from '../assets/images/skills/aws.png'
 
-// const [displayNewsCatchInfo, setDisplayNewsCatchInfo] = useState(false)
-// const [displayTechPandaInfo, setDisplayTechPandaInfo] = useState(false)
-
-// const toggleDisplayNewsCatchInfo = () => {
-//   setDisplayNewsCatchInfo(true)
-// }
-
-// const toggleDisplayTechPandaInfo = () => {
-//   setDisplayTechPandaInfo(true)
-// }
 const IndexPage = () => (
   <Layout>
     <section id="banner">
@@ -149,9 +138,9 @@ const IndexPage = () => (
             <article>
               <section className='vid-holder'>
                 {/* <iframe src="https://player.vimeo.com/video/378907262" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> */}
-                {/* <video width='101%'  controls>
+                <video width='101%'  controls>
                   <source src={vid1} type='video/webm'></source>
-                </video> */}
+                </video>
               </section>
               {/* <ReactPlayer url={vid1}/> */}
               <h3 className="major">newsCatch</h3>
@@ -171,9 +160,9 @@ const IndexPage = () => (
                 <img src={pic5} alt="" />
               </a> */}
               <section className='vid-holder'>
-                {/* <video  width='101%'  controls>
+                <video  width='101%'  controls>
                   <source src={vid2}></source>
-                </video>                 */}
+                </video>                
               </section>
               <h3 className="major">TechPanda</h3>
               <p>
