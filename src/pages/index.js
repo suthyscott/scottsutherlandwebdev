@@ -7,7 +7,7 @@ import pic2 from '../assets/images/coding-icons/carrots.svg';
 import pic3 from '../assets/images/coding-icons/gears.svg';
 
 import vid1 from '../assets/vids/newsCatch.webm'
-import vid2 from '../assets/vids/TechPandaVideo.mp4'
+import screenShot from '../assets/img/TechPandaScreen.png'
 
 import reactPic from '../assets/images/skills/react.png'
 import reduxPic from '../assets/images/skills/redux.svg'
@@ -160,9 +160,10 @@ const IndexPage = () => (
                 <img src={pic5} alt="" />
               </a> */}
               <section className='vid-holder'>
-                <video  width='101%'  controls>
+                <img width='101%' height='205' src={screenShot} alt='TechPanda ecommerce site'/>
+                {/* <video  width='101%'  controls>
                   <source src={vid2}></source>
-                </video>                
+                </video>                 */}
               </section>
               <h3 className="major">TechPanda</h3>
               <p>
