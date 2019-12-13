@@ -58,6 +58,13 @@
     }
   }
 
+  .contact-buttons {
+    width: 60vw;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10vh
+  }
+
   @include breakpoint('<=large') {
     background-color: _palette(bg);
 

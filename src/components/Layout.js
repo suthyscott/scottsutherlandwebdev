@@ -28,6 +28,7 @@ class Layout extends Component {
   }
 
   render() {
+    console.log('layout')
     const { children, fullMenu } = this.props;
     const { isPreloaded } = this.state;
     return (
