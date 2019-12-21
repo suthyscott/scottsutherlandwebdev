@@ -43,7 +43,7 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">About Me</h2>
             <p>
-            I’ve always been a work hard, play kind of hard guy. I enjoy taking on a challenge, and I enjoy being able to sit back and relax and appreciate what I’ve done.
+            I’ve always been a work hard, play hard kind of guy. I enjoy taking on a challenge, and I enjoy being able to sit back and relax and appreciate what I’ve done.
             <br/>
             <br/>
              After working in HVAC for several years, I wasn’t feeling much of either. I started looking for a new field that would keep challenging me, keep me on my toes so that I could go to work excited every day and come home happy with what I’d done. 
