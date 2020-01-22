@@ -137,10 +137,10 @@ const IndexPage = () => (
           <section className="features">
             <article>
               <section className='vid-holder'>
-                {/* <iframe src="https://player.vimeo.com/video/378907262" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> */}
-                <video width='101%'  controls>
+                <iframe src="https://player.vimeo.com/video/378907262" width="100%" height="210" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                {/* <video width='101%'  controls>
                   <source src={vid1} type='video/webm'></source>
-                </video>
+                </video> */}
               </section>
               {/* <ReactPlayer url={vid1}/> */}
               <h3 className="major">newsCatch</h3>
