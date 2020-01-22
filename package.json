@@ -21,10 +21,7 @@
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
     "react-images": "^0.5.19",
-<<<<<<< HEAD
     "react-player": "^1.14.2",
-=======
->>>>>>> a538c9da6d50114c6faac60bd9870f9b5742ff66
     "react-scrollspy": "^3.4.0",
     "smoothscroll-polyfill": "^0.4.4"
   },

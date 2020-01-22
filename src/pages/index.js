@@ -6,7 +6,7 @@ import Layout from '../components/Layout';
 import pic2 from '../assets/images/coding-icons/carrots.svg';
 import pic3 from '../assets/images/coding-icons/gears.svg';
 
-import vid1 from '../assets/vids/newsCatch.webm'
+// import vid1 from '../assets/vids/newsCatch.webm'
 import screenShot from '../assets/img/TechPandaScreen.png'
 
 import reactPic from '../assets/images/skills/react.png'
