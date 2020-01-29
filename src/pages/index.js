@@ -153,6 +153,9 @@ const IndexPage = () => (
                 <br/>
                 Built with JavaScript, React, HTML, CSS, Express, PostgreSQL and  BCrypt.        
                 </p>
+                <a href="https://newscatchapp.com/#/" className="special">
+                Visit
+              </a>
             </article>
 
             <article>
