@@ -163,7 +163,9 @@ const IndexPage = () => (
                 <img src={pic5} alt="" />
               </a> */}
               <section className='vid-holder'>
-                <img width='101%' height='205' src={screenShot} alt='TechPanda ecommerce site'/>
+                {/* <img width='101%' height='205' src={screenShot} alt='TechPanda ecommerce site'/> */}
+                <iframe src="https://player.vimeo.com/video/459145141" width="100%" height="210" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                {/* <iframe src="https://player.vimeo.com/video/459145141" width="640" height="400" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> */}
                 {/* <video  width='101%'  controls>
                   <source src={vid2}></source>
                 </video>                 */}
@@ -178,9 +180,9 @@ const IndexPage = () => (
               <br/>  
               Built with JavaScript, React, HTML, CSS, Express, PostgreSQL, Auth0, Stripe, and MaterialUI.
               </p>
-              <a href="http://165.227.28.127:5000/#/" className="special">
+              {/* <a href="http://165.227.28.127:5000/#/" className="special">
                 Visit
-              </a>
+              </a> */}
             </article>
             {/* <article>
               <a href="/#" className="image">
