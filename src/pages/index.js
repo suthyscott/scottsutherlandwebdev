@@ -43,10 +43,10 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">About Me</h2>
             <p>
-            I like LOTR, motorcycles and Avatar the Last Airbender. Like, a lot. Put me outside in nature or inside on an ultrawide and I'll be equally happy. I love living in Utah, mostly because it keeps me close to my family and the mountains. 
-            <br/>
-            <br/>
             After working in skilled labor trades, I decided to take a chance and shoot for something more fulfilling. At an immersive web dev bootcamp in Lehi I discovered two things I'm passionate about: coding and teaching. I've been combining those two passions as a teaching assistant and lead instructor for almost two years, with a stint as a full stack web developer at Trove Brands. 
+            <br/>
+            <br/>
+            I like LOTR, motorcycles and Avatar the Last Airbender. Like, a lot. Put me outside in nature or inside on an ultrawide and I'll be equally happy. I love living in Utah, mostly because it keeps me close to my family and the mountains. 
             </p>
             {/* <a href="/#" className="special">
               Learn more
