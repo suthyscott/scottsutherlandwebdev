@@ -43,14 +43,10 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">About Me</h2>
             <p>
-            I’ve always been a work hard, play hard kind of guy. I enjoy taking on a challenge, and I enjoy being able to sit back and relax and appreciate what I’ve done.
+            I like LOTR, motorcycles and Avatar the Last Airbender. Like, a lot. Put me outside in nature or inside on an ultrawide and I'll be equally happy. I love living in Utah, mostly because it keeps me close to my family and the mountains. 
             <br/>
             <br/>
-             After working in HVAC for several years, I wasn’t feeling much of either. I started looking for a new field that would keep challenging me, keep me on my toes so that I could go to work excited every day and come home happy with what I’d done. 
-            <br/>
-            <br/>
-            Coding was the answer. The hours spent banging my head against poor documentation and maze-like logic were balanced with the unique exhilaration of watching my code function correctly and the occasional break to play ping pong or watch The Office. I wake up every morning excited that I get to do something that I love. 
-
+            After working in skilled labor trades, I decided to take a chance and shoot for something more fulfilling. At an immersive web dev bootcamp in Lehi I discovered two things I'm passionate about: coding and teaching. I've been combining those two passions as a teaching assistant and lead instructor for almost two years, with a stint as a full stack web developer at Trove Brands. 
             </p>
             {/* <a href="/#" className="special">
               Learn more
@@ -67,7 +63,7 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">MY PHILOSOPHY</h2>
             <p>
-            I have always relished a challenge. Coming up against something difficult in pursuit of a goal is highly motivating to me, and I believe a positive and determined attitude is one of the most valuable skills I bring to the workplace. Though I strive to perfect my technical skills as much as possible, I’m a people person and believe that great work starts and ends with great teams. I come to work every day excited to code and ready to support my teammates. 
+            I have always relished a challenge. Coming up against something difficult in pursuit of a worthy goal is highly motivating to me, and I believe a positive and determined attitude is one of the most valuable skills I bring to the workplace. Though I strive to perfect my technical skills as much as possible, I’m a people person and believe that great work starts and ends with great teams. I come to work every day excited to code and ready to support my teammates. 
             </p>
             {/* <a href="/#" className="special">
               Learn more

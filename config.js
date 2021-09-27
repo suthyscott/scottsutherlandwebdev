@@ -43,5 +43,5 @@ module.exports = {
     },
   ],
   email: 'scottsutherlandwebdev@gmail.com',
-  address: 'Mapleton, UT 84664',
+  address: 'Lehi, UT 84043',
 };
