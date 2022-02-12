@@ -34,7 +34,7 @@ export default function Footer() {
           <li className="fa-home">{config.address}</li>
           <li className='fa-envelope-o'>{config.email}</li>
           <div className='contact-buttons'>
-            <button> <a href='https://docs.google.com/document/d/1imXojlGOay3PAnEAMNES1yNGxqNsx0IgcdWc3weIUzs/edit?usp=sharing'href='https://docs.google.com/document/d/1imXojlGOay3PAnEAMNES1yNGxqNsx0IgcdWc3weIUzs/edit?usp=sharing'>Resume</a></button>
+            <button> <a href='https://docs.google.com/document/d/1ArDLs7RUCkyKzwQk68jVvPRMCWY6ng6bO2a-PTcO0ZU/edit?usp=sharing'>Resume</a></button>
             <button> <a href='https://www.linkedin.com/in/scott-sutherland-883329196/'>LinkedIn</a></button>
             <button> <a href='https://github.com/suthyscott'>GitHub</a></button>
           </div>
