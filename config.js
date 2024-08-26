@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/images/ss-icon.jpg',
   pathPrefix: `/gatsby-starter-solidstate/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Scott Sutherland',
-  subHeading: 'Full Stack Web Developer',
+  subHeading: 'Software Instructor | Full Stack Web Developer',
   // iconStyle: {
   //   height: '75px',
   //   width: '77px'
@@ -19,7 +19,7 @@ module.exports = {
     {
       icon: 'fa-resume',
       name: 'Resume',
-      url: 'https://docs.google.com/document/d/1imXojlGOay3PAnEAMNES1yNGxqNsx0IgcdWc3weIUzs/edit?usp=sharing',
+      url: 'https://docs.google.com/document/d/1QvuoW412fBGxLA5NvDXusAHE1bF7DRd0laSkq1YIA9M/edit?usp=sharing',
     },
     {
       icon: 'fa-envelope-o',

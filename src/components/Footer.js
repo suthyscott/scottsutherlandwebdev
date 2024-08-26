@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="inner">
         <h2 className="major">Get in touch</h2>
         <p>
-          Looking for a mild-mannered Web Dev with average Super Smash Bros skills and a great attitude? Hit me up!
+          Looking for a mild-mannered engineer/instructor with average Super Smash Bros skills and a great attitude? Hit me up!
         </p>
         {/* <form method="post" action="/#">
           <div className="fields">

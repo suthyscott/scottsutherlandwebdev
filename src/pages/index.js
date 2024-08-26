@@ -43,10 +43,10 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">About Me</h2>
             <p>
-            After working in skilled labor trades, I decided to take a chance and shoot for something more fulfilling. At an immersive web dev bootcamp in Lehi I discovered two things I'm passionate about: coding and teaching. I've been combining those two passions as a teaching assistant and lead instructor for almost two years, with a stint as a full stack web developer at Trove Brands. 
+            My career in software begain at an immersive web dev bootcamp in Lehi. As a student there with no prior coding experience, I discovered two things I'm passionate about: web development and teaching. Well, three things if you count ping pong, but we'll focus on the professional stuff here. In the past five years I've pursued those passions as a software engineer and instructor in a variety of roles.  
             <br/>
             <br/>
-            I like LOTR, motorcycles and Avatar the Last Airbender. Like, a lot. Put me outside in nature or inside on an ultrawide and I'll be equally happy. I love living in Utah, mostly because it keeps me close to my family and the mountains. 
+            I like LOTR, motorcycles and basically anything else that's fantasy or an adrenaline rush. Put me outside in nature or inside on an ultrawide and I'll be equally happy. I love living in Utah, mostly because it keeps me close to my family and the mountains. 
             </p>
             {/* <a href="/#" className="special">
               Learn more
@@ -63,7 +63,7 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">MY PHILOSOPHY</h2>
             <p>
-            I have always relished a challenge. Coming up against something difficult in pursuit of a worthy goal is highly motivating to me, and I believe a positive and determined attitude is one of the most valuable skills I bring to the workplace. Though I strive to perfect my technical skills as much as possible, I’m a people person and believe that great work starts and ends with great teams. I come to work every day excited to code and ready to support my teammates. 
+            I have always relished a challenge. Coming up against something difficult in pursuit of a worthy goal is highly motivating to me, and I believe a positive and determined attitude is one of the most valuable skills I bring to the workplace. Though I strive to perfect my technical skills as much as possible, I’m a people person and believe that great work starts and ends with great teams. I come to work every day excited to code and hoping to spread that excitement with others. 
             </p>
             {/* <a href="/#" className="special">
               Learn more
@@ -129,6 +129,7 @@ const IndexPage = () => (
       <section id="four" className="wrapper alt style1">
         <div className="inner">
           <h2 className="major">Projects</h2>
+          <p>These are my student projects that kicked off my dev career. For a more up-to-date summary of what I've been up to, check out my resume!</p>
 
           <section className="features">
             <article>
